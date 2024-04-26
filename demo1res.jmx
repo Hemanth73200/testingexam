@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707903423423,1913,HTTP Request,200,OK,Thread Group 1-3,text,true,,304843,387,10,10,https://kristujayanti.edu.in:443/home/,1104,0,1061
+1707903423423,1104,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,976,127,10,10,https://kristujayanti.edu.in/home,1104,0,1061
+1707903424529,73,HTTP Request-1,301,Moved Permanently,Thread Group 1-3,text,true,,345,128,10,10,http://kristujayanti.edu.in/home/,73,0,33
+1707903424602,734,HTTP Request-2,200,OK,Thread Group 1-3,text,true,,303522,132,10,10,https://kristujayanti.edu.in:443/home/,549,0,493
+1707903423721,1616,HTTP Request,200,OK,Thread Group 1-6,text,true,,304821,387,10,10,https://kristujayanti.edu.in:443/home/,802,0,759
+1707903423721,802,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,976,127,10,10,https://kristujayanti.edu.in/home,802,0,759
+1707903424525,82,HTTP Request-1,301,Moved Permanently,Thread Group 1-6,text,true,,345,128,10,10,http://kristujayanti.edu.in/home/,82,0,37
+1707903424608,729,HTTP Request-2,200,OK,Thread Group 1-6,text,true,,303500,132,10,10,https://kristujayanti.edu.in:443/home/,544,0,491
+1707903423815,1556,HTTP Request,200,OK,Thread Group 1-7,text,true,,304821,387,8,8,https://kristujayanti.edu.in:443/home/,715,0,671
+1707903423815,715,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,976,127,8,8,https://kristujayanti.edu.in/home,715,0,671
+1707903424532,502,HTTP Request-1,301,Moved Permanently,Thread Group 1-7,text,true,,345,128,8,8,http://kristujayanti.edu.in/home/,502,0,37
+1707903425034,337,HTTP Request-2,200,OK,Thread Group 1-7,text,true,,303500,132,8,8,https://kristujayanti.edu.in:443/home/,136,0,80
+1707903423925,1453,HTTP Request,200,OK,Thread Group 1-8,text,true,,304821,387,7,7,https://kristujayanti.edu.in:443/home/,595,0,550
+1707903423925,595,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,976,127,7,7,https://kristujayanti.edu.in/home,595,0,550
+1707903424522,80,HTTP Request-1,301,Moved Permanently,Thread Group 1-8,text,true,,345,128,7,7,http://kristujayanti.edu.in/home/,80,0,37
+1707903424602,776,HTTP Request-2,200,OK,Thread Group 1-8,text,true,,303500,132,7,7,https://kristujayanti.edu.in:443/home/,605,0,499
+1707903423213,2173,HTTP Request,200,OK,Thread Group 1-1,text,true,,304829,387,6,6,https://kristujayanti.edu.in:443/home/,1302,0,1258
+1707903423213,1302,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,976,127,6,6,https://kristujayanti.edu.in/home,1302,0,1258
+1707903424516,86,HTTP Request-1,301,Moved Permanently,Thread Group 1-1,text,true,,345,128,6,6,http://kristujayanti.edu.in/home/,86,0,41
+1707903424602,784,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,303508,132,6,6,https://kristujayanti.edu.in:443/home/,565,0,499
+1707903423518,1870,HTTP Request,200,OK,Thread Group 1-4,text,true,,304821,387,5,5,https://kristujayanti.edu.in:443/home/,995,0,953
+1707903423518,995,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,976,127,5,5,https://kristujayanti.edu.in/home,995,0,953
+1707903424514,75,HTTP Request-1,301,Moved Permanently,Thread Group 1-4,text,true,,345,128,5,5,http://kristujayanti.edu.in/home/,75,0,35
+1707903424589,799,HTTP Request-2,200,OK,Thread Group 1-4,text,true,,303500,132,5,5,https://kristujayanti.edu.in:443/home/,575,0,512
+1707903423328,2065,HTTP Request,200,OK,Thread Group 1-2,text,true,,304821,387,4,4,https://kristujayanti.edu.in:443/home/,1189,0,1145
+1707903423328,1189,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,976,127,4,4,https://kristujayanti.edu.in/home,1189,0,1145
+1707903424519,83,HTTP Request-1,301,Moved Permanently,Thread Group 1-2,text,true,,345,128,4,4,http://kristujayanti.edu.in/home/,83,0,38
+1707903424602,791,HTTP Request-2,200,OK,Thread Group 1-2,text,true,,303500,132,4,4,https://kristujayanti.edu.in:443/home/,599,0,499
+1707903423613,1806,HTTP Request,200,OK,Thread Group 1-5,text,true,,304820,387,3,3,https://kristujayanti.edu.in:443/home/,917,0,872
+1707903423613,917,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,976,127,3,3,https://kristujayanti.edu.in/home,917,0,872
+1707903424532,512,HTTP Request-1,301,Moved Permanently,Thread Group 1-5,text,true,,345,128,3,3,http://kristujayanti.edu.in/home/,512,0,38
+1707903425044,375,HTTP Request-2,200,OK,Thread Group 1-5,text,true,,303499,132,3,3,https://kristujayanti.edu.in:443/home/,136,0,94
+1707903424018,1426,HTTP Request,200,OK,Thread Group 1-9,text,true,,304821,387,2,2,https://kristujayanti.edu.in:443/home/,518,0,474
+1707903424018,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,976,127,2,2,https://kristujayanti.edu.in/home,518,0,474
+1707903424537,504,HTTP Request-1,301,Moved Permanently,Thread Group 1-9,text,true,,345,128,2,2,http://kristujayanti.edu.in/home/,504,0,36
+1707903425041,403,HTTP Request-2,200,OK,Thread Group 1-9,text,true,,303500,132,2,2,https://kristujayanti.edu.in:443/home/,214,0,116
+1707903424128,1317,HTTP Request,200,OK,Thread Group 1-10,text,true,,304829,387,1,1,https://kristujayanti.edu.in:443/home/,380,0,340
+1707903424128,380,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,976,127,1,1,https://kristujayanti.edu.in/home,380,0,340
+1707903424510,81,HTTP Request-1,301,Moved Permanently,Thread Group 1-10,text,true,,345,128,1,1,http://kristujayanti.edu.in/home/,81,0,37
+1707903424591,854,HTTP Request-2,200,OK,Thread Group 1-10,text,true,,303508,132,1,1,https://kristujayanti.edu.in:443/home/,576,0,512
